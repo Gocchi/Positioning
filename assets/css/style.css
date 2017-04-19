@@ -19,6 +19,8 @@
 
 #azul{
 	background-color: #1982C4;
+	position: relative;
+	left:200px;
 }
 
 #morado{
