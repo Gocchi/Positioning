@@ -1,28 +1,39 @@
 *{
-	margin: 0;
-	padding: 0;
+	margin:0;
+	padding:0;
 }
 
 .contenedor{
-	margin: 0;
-	padding: 0;
+	margin:0;
+	padding:0;
 }
 
 .caja{
 	width: 200px;
 	height: 200px;
+	position: absolute;
 }
 
 #verde{
 	background-color: #8AC926;
+	left:0;
+	top:0;
 }
 
 #azul{
 	background-color: #1982C4;
-	position: relative;
-	left:200px;
+	right:0;
+	top:0;
 }
 
 #morado{
 	background-color: #6A4C93;
+	left:0;
+	bottom:0; 
+}
+
+#amarillo{
+	background-color: #FFCA3A;
+	right:0;
+	bottom:0;
 }
