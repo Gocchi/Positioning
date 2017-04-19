@@ -11,29 +11,28 @@
 .caja{
 	width: 200px;
 	height: 200px;
-	position: absolute;
+
 }
 
 #verde{
 	background-color: #8AC926;
-	left:0;
-	top:0;
+
 }
 
 #azul{
 	background-color: #1982C4;
-	right:0;
-	top:0;
+	left:200px;
+	right: 200px;
+	position: absolute;
+
 }
 
 #morado{
 	background-color: #6A4C93;
-	left:0;
-	bottom:0; 
+ 
 }
 
 #amarillo{
 	background-color: #FFCA3A;
-	right:0;
-	bottom:0;
+
 }
